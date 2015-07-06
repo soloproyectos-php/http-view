@@ -8,8 +8,8 @@
  */
 namespace soloproyectos\http\view;
 use \Exception;
+use soloproyectos\http\controller\HttpController;
 use soloproyectos\http\exception\HttpClientException;
-use soloproyectos\http\HttpController;
 
 /**
  * Abstract base class of views.
