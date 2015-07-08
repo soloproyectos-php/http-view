@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.0",
-        "soloproyectos-php/http-controller": "dev-master"
+        "soloproyectos-php/http": "dev-master",
     },
     "autoload": {
         "psr-4": {
