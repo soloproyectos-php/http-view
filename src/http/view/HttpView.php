@@ -11,10 +11,10 @@ namespace soloproyectos\http\view;
 /**
  * Abstract base class of views.
  *
- * @package Admin\View
- * @author  Axis-Studios <info@axis-studios.com>
- * @license Proprietary License
- * @link    https://github.com/AxisStudios/syntheticpictures-admin
+ * @package View
+ * @author  Gonzalo Chumillas <gchumillas@email.com>
+ * @license https://github.com/soloproyectos-php/http-view/blob/master/LICENSE The MIT License (MIT)
+ * @link    https://github.com/soloproyectos-php/http-view
  */
 abstract class HttpView
 {
